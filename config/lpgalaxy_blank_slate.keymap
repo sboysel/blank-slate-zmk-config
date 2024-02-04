@@ -35,10 +35,10 @@
         alpha_layer {
             label = "Alpha (QWERTY)";
             bindings = <
-&kp Q       &kp W       &kp E        &kp R        &kp T          &none        &none        &kp Y      &kp U        &kp I        &kp O       &kp P
-&mt LGUI A  &mt LALT S  &mt LCTRL D  &mt LSHFT F  &kp G          &none        &none        &kp H      &mt LSHFT J  &mt LCTRL K  &mt LALT L  &mt LGUI QUOT
-&kp Z       &kp X       &kp C        &kp V        &kp B          &none        &none        &kp N      &kp M        &kp COMMA    &kp DOT     &kp FSLH  
-&none       &none       &none        &kp ESC      &lt NAV SPACE  &lt FUN TAB  &lt SYM RET  &NUM BSPC  &kp DEL      &none        &none       &none
+&kp Q       &kp W       &kp E        &kp R        &kp T          &none        &none        &kp Y         &kp U        &kp I        &kp O       &kp P
+&mt LGUI A  &mt LALT S  &mt LCTRL D  &mt LSHFT F  &kp G          &none        &none        &kp H         &mt LSHFT J  &mt LCTRL K  &mt LALT L  &mt LGUI QUOT
+&kp Z       &kp X       &kp C        &kp V        &kp B          &none        &none        &kp N         &kp M        &kp COMMA    &kp DOT     &kp FSLH  
+&none       &none       &none        &kp ESC      &lt NAV SPACE  &lt FUN TAB  &lt SYM RET  &lt NUM BSPC  &kp DEL      &none        &none       &none
             >;
         };
 
