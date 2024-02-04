@@ -55,7 +55,7 @@
         fun_layer {
             label = "Function";
             bindings = <
-&bootloader &none       &none        &none        &none          &none        &none        &none      &none        &none        &none       &none 
+&bootloader &none       &none        &none        &none          &none        &none        &none      &none        &none        &none       &bt BT_CLR 
 &kp LGUI    &kp LALT    &kp LCTRL    &kp LSHFT    &none          &none        &none        &none      &none        &none        &none       &none
 &none       &none       &none        &none        &none          &none        &none        &none      &none        &none        &none       &none    
 &none       &none       &none        &trans       &trans         &trans       &trans       &trans     &trans       &none        &none       &none
